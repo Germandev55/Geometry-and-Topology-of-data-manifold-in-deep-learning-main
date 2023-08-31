@@ -1,4 +1,4 @@
-# Topology and geometry of data manifold in deep learning
+# TDA and manifold learning for neural networks research
 <br/>
 
 to install the necessary modules copy to the command line
