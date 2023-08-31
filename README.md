@@ -18,8 +18,8 @@ python Experiments.py --net VGG --mode PHdim --path 'path/to/model.h5'
 
 the experimental results in -net VGG case will be approximately as follows 
 
-![plot_7](https://github.com/Topology-DL/Topology-and-geometry-of-data-manifold-in-deep-learning/blob/main/VGG_example_topology.png)
-![plot_8](https://github.com/Topology-DL/Topology-and-geometry-of-data-manifold-in-deep-learning/blob/main/VGG_example_phdim.png)
+![plot_7](https://github.com/Germandev55/Geometry-and-Topology-of-data-manifold-in-deep-learning-main/blob/main/VGG_example_topology.png)
+![plot_8](https://github.com/Germandev55/Geometry-and-Topology-of-data-manifold-in-deep-learning-main/blob/main/VGG_example_phdim.png)
 
 _______________________________________
 
