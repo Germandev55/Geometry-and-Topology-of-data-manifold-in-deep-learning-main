@@ -1,4 +1,4 @@
-# TDA and manifold learning for neural networks research
+# Geometry for deep learning
 <br/>
 
 to install the necessary modules copy to the command line
